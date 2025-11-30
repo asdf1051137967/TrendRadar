@@ -54,7 +54,7 @@ notification:
   webhooks:
     # 👇 因为你不想在代码里写地址，请确保你已经在 GitHub Secrets 里配置了 FEISHU_WEBHOOK_URL
     # 如果没配置 Secret，请手动把地址填回双引号里
-    feishu_url: "" 
+    feishu_url: "https://open.feishu.cn/open-apis/bot/v2/hook/56d879d7-5bea-42f6-81d3-739ad3b60ec6" 
     dingtalk_url: ""
     wework_url: ""
     wework_msg_type: "markdown"
