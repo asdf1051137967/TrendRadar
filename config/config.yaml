@@ -41,7 +41,7 @@ notification:
   bark_batch_size: 4000
   slack_batch_size: 4000
   batch_send_interval: 3
-  feishu_message_separator: "━━━━━━━━━━━━━━━━━━━"
+  feishu_message_separator: "===TrendRadar监控==="
 
   push_window:
     enabled: false
